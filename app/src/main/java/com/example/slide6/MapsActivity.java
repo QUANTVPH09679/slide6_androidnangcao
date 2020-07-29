@@ -44,6 +44,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
 
         LatLng FPTPoly = new LatLng(21.0381328, 105.7445984);
-        mMap.addMarker(new MarkerOptions().position(FPTPoly).title("Cao đẳng FPTPoly"));
+        mMap.addMarker(new MarkerOptions().position(FPTPoly).title("Cao đẳng FPTPolyyyyy"));
     }
 }
